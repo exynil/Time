@@ -78,7 +78,6 @@ addEventListener('click', function (e) {
 
 		particles.push(new Particle(particles.length, radius, mass, speed, acceleration, x, y, color));
 	}
-	console.log(particles);
 })
 
 // Инициализация
